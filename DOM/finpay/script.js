@@ -145,7 +145,7 @@ div3p.innerText = 'Securely manage yow finances With Organization-wide MFA, card
 
 // Why Finpay
 const backgrounddiv = document.createElement('div')
-backgrounddiv.className = `bg-[#f6f8fbad] pt-20`
+backgrounddiv.className = `bg-[#f6f8fbad] pt-20 pb-[60px]`
 
 const backgrounddivh3 = document.createElement('h3')
 backgrounddivh3.innerText = 'WHY US'
